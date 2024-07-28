@@ -120,7 +120,7 @@ let s:source_map = [
 \      {
 \        'type': 'js',
 \        'path': '_/js/lib/mermaid.min.js',
-\        'url': 'https://cdn.jsdelivr.net/npm/mermaid@latest/dist/mermaid.min.js',
+\        'url': 'https://cdn.jsdelivr.net/npm/mermaid@10.9.1/dist/mermaid.min.js',
 \        'code': [
 \          'mermaid.initialize({startOnLoad: false});',
 \          'mermaid.run();',
